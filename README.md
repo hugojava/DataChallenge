@@ -1,6 +1,6 @@
 # Toxic Gas Identification – Data Challenge Bertin Technologies
 
-Ce projet a été réalisé dans le cadre d’un **data challenge multi-output** visant à prédire un niveau d’alarme pour différents gaz à partir de mesures de capteurs.  
+Ce projet a été réalisé dans le cadre d’un **data challenge multi-output**, visant à prédire un niveau d’alarme pour différents gaz à partir de mesures de capteurs.  
 Le dataset contient environ **330 000 échantillons**, dont la moitié en test, et présente un fort
 problème de **data shift**, notamment sur la variable `Humidity`.
 
